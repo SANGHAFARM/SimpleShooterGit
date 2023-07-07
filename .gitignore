@@ -42,7 +42,7 @@ Content/AssetPacks/
 *.sdf
 *.VC.db
 *.VC.opendb
-.code-workspace
+*.code-workspace
 
 # Precompiled Assets
 SourceArt/**/*.png
